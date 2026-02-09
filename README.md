@@ -7,7 +7,7 @@ To build a small library system that supports:
 - Borrowing and returning workflow
 - Basic statistics  on library usage and a plot of borrowed books per user
 
-## Repository structure
+## Structure
 ```text
 .
 ├─ Logic
@@ -19,7 +19,6 @@ To build a small library system that supports:
 │  ├─ test_book.py
 │  ├─ test_library.py
 │  └─ test_user.py
-├─ INSTRUCTIONS.md
 └─ main.py
 ```
 ## Notes
