@@ -8,6 +8,8 @@ To build a small library system that supports:
 - Basic statistics  on library usage and a plot of borrowed books per user
 
 ## Repository structure
+```text
+.
 ├─ Logic/
 │  └─ library_logic.py
 ├─ Models/
