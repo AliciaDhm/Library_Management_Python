@@ -10,17 +10,17 @@ To build a small library system that supports:
 ## Repository structure
 ```text
 .
-├─ Logic/
+├─ Logic
 │  └─ library_logic.py
-├─ Models/
+├─ Models
 │  ├─ Book.py
 │  └─ User.py
-├─ Tests/
+├─ Tests
 │  ├─ test_book.py
 │  ├─ test_library.py
 │  └─ test_user.py
 ├─ INSTRUCTIONS.md
 └─ main.py
-
+```
 ## Notes
 - Some scripts may include local file paths; update them to match your environment.
